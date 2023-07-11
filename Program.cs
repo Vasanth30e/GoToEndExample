@@ -8,19 +8,24 @@ namespace GotoEndExample
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
-            for(int i=0; i<10;i++)
+            doApp();  
+            Console.ReadKey();
+
+        }
+        static void doApp()
+        {
+            for (int i = 0; i < 10; i++)
             {
-                if(i==6)
+                if (i == 6)
                 {
                     goto end;
                 }
                 Console.WriteLine("i value:{0}", i);
             }
         end: Console.WriteLine("The end");
-        Console.ReadKey();
-
         }
     }
 }
