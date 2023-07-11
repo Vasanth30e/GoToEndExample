@@ -1,0 +1,8 @@
+D:\Training\C#\Day 2\GotoEndExample\GotoEndExample\bin\Debug\GotoEndExample.exe.config
+D:\Training\C#\Day 2\GotoEndExample\GotoEndExample\bin\Debug\GotoEndExample.exe
+D:\Training\C#\Day 2\GotoEndExample\GotoEndExample\bin\Debug\GotoEndExample.pdb
+D:\Training\C#\Day 2\GotoEndExample\GotoEndExample\obj\Debug\GotoEndExample.csproj.AssemblyReference.cache
+D:\Training\C#\Day 2\GotoEndExample\GotoEndExample\obj\Debug\GotoEndExample.csproj.SuggestedBindingRedirects.cache
+D:\Training\C#\Day 2\GotoEndExample\GotoEndExample\obj\Debug\GotoEndExample.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 2\GotoEndExample\GotoEndExample\obj\Debug\GotoEndExample.exe
+D:\Training\C#\Day 2\GotoEndExample\GotoEndExample\obj\Debug\GotoEndExample.pdb
